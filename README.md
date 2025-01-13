@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/bd21b31f-73da-460d-a077-a3e9af2e9300)
 # Massedit - Rewind.hub
 This is Rewind.hub's open source mass edit tool, it is made quickly, easy and fast in CPP. It is open source so do as u may but please give us credit for the tool if u want to leak it out to others.
 
