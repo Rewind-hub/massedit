@@ -1,11 +1,15 @@
-
+![image](https://github.com/user-attachments/assets/bd21b31f-73da-460d-a077-a3e9af2e9300)
 # Massedit - Rewind.hub
 This is Rewind.hub's open source mass edit tool, it is made quickly, easy and fast in CPP. It is open source so do as u may but please give us credit for the tool if u want to leak it out to others.
 
 - Current Version: 2.6.2
 - Developers: [@hash](https://github.com/realhash)
 - Languages: C++
+
+  ![image](https://github.com/user-attachments/assets/2dd18fec-abc5-4774-8410-c30140a634e2)
+
 ## Installation and Deployment
+
 
 1. Launch the `massedit.exe` file, and make the key and config file get created
 2. Insert the key into `key.txt`, if u wish to support us please join the discord for the key.
